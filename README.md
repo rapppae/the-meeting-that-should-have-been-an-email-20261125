@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The Meeting That Should Have Been an Email](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9).
 
-> This meeting could have been an email, but then nobody would have watched me nod for forty-five minutes straight.
+> We spent forty-five minutes in a meeting that could have been one email — mostly watching each other nod at a slide nobody read.
 
 ## Run
 
